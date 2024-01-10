@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-zhran" alt="mohamed-zhran" /></a> </p>
 
-- 🔭 I’m currently working on [Wassalny](https://github.com/islam1l/wassalny)
+- 🔭 I’m currently working on [Wassalny](https://github.com/Mohamed-Zhran/wassalny)
 
 - 📫 How to reach me **mohamedzhran100@gmail.com**
 
